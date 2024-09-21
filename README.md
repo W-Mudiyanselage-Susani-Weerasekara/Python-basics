@@ -1,4 +1,4 @@
-# Basic Concepts in Python
+# Basic Concepts in Python 2
 ## Here you will learn following;
 * How to use Lambda Function
 * How to make a simple calculator
